@@ -1,1 +1,1 @@
-This project is a demonstration of my use of the Twitch.tv API to generte information about users, including streaming status and content.
+This project is a demonstration of my use of the Twitch.tv API to generate information about users, including streaming status and content.
